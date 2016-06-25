@@ -17,5 +17,5 @@ Brief description of content covered in course.
 ## Effort Applied
 *
 
-## Next Steps/Things I Would Like to Pursue
+## Next Steps/Things I Would Like to Pursue/Things to Improve On
 *
