@@ -4,7 +4,7 @@
 
 #### By Shradha Pulla
 
-## Course Description
+## Course Description (Epicodus Website)
 
 "This course is for absolute beginners to learn the fundamentals of programming. After completing this course, you'll be able to build basic webpages and understand programming fundamentals. No coding experience is required, but computer proficiency is necessary.
 

@@ -4,7 +4,7 @@
 
 #### By Shradha Pulla
 
-## Course Description
+## Course Description (Epicodus Website)
 
 Brief description of content covered in course.
 
