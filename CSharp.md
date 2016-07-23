@@ -11,7 +11,7 @@
 * Week 1: Behavior-driven development
 * Week 2: Object-oriented design basics
 * Week 3: Database basics with SQL
-* Week 4: Databases continued
+* Week 4: Databases continued (advanced)
 * Week 5: Group projects
 
 C# and .NET are typically used by larger enterprises, government agencies, and companies serving enterprise and government clients."
@@ -27,6 +27,9 @@ C# and .NET are typically used by larger enterprises, government agencies, and c
 * Week 3:
   * Can create & manipulate databases in SSMS with ease
   * Slowly started to understand the meaning behind the code & syntax while working on the code review
+* Week 4:
+  * Can finally type up methods for CRUD functionality & JOIN statements without references
+  * Starting to understand more about syntax & why it's need in specific places
 
 ## Struggles
 * Week 1:
@@ -39,6 +42,9 @@ C# and .NET are typically used by larger enterprises, government agencies, and c
   * Understanding the meaning behind the code, and what the syntax specifically meant
   * Writing specs to help establish tests
   * Lot of content this week
+* Week 4:
+  * Partners drove most of the problem-solving & new ideas
+  * Need to practice how to come up with new methods/complex programs
 
 ## Effort Applied
 * Week 1:
@@ -53,9 +59,15 @@ C# and .NET are typically used by larger enterprises, government agencies, and c
   * Partners did most of the work this week- I typed enough, but didn't think of how to construct the code
   * Didn't stay after class to practice
   * Didn't complete code review resubmission until the weekend
+  * Didn't practice during the weekend
+* Week 4:
+  * Typed a lot, typed almost everything I had to do
+  * Very rarely referenced my old notes when typing new code
+  * Stayed after class 2 days this week to improve projects
   * Watched C# lectures from https://www.pluralsight.com/ & https://www.toptal.com/ during the weekend, and practiced by completing an exercise from the class work
 
 ## Next Steps/Things I Would Like to Pursue/Things to Improve On
 * Try LINQPad.Net to bypass compiling the file every time code is changed in an Objects file
 * Go to a .Net dev or CSharp dev meeting/meetup/company event
 * Learn how to write proper specs, especially for tests
+* Study theory behind databases & CRUD code
