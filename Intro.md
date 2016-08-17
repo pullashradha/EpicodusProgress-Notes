@@ -4,18 +4,13 @@
 
 #### By Shradha Pulla
 
-## Course Description (Epicodus Website)
+## Course Description (Epicodus Learn How To Program Website)
 
-"This course is for absolute beginners to learn the fundamentals of programming. After completing this course, you'll be able to build basic webpages and understand programming fundamentals. No coding experience is required, but computer proficiency is necessary.
-
-Here's some of what we'll cover:
-* Command line: the tool programmers use to interact with their computers
-* Git: the tool programmers use to track their code
-* Markdown: a simple language for documents
-* HTML and CSS: the presentation and styling languages of the web
-* Bootstrap: a framework for easily creating good-looking websites
-* jQuery: a JavaScript library for making interactive web pages
-* JavaScript: the programming language of the web"
+* Week 1: Git, HTML and CSS
+* Week 2: JavaScript and jQuery
+* Week 3: Arrays & Looping
+* Week 4: Object-oriented JavaScript
+* Week 5: Group Project
 
 ## Successes
 * LOVED the CSS and design parts of the course

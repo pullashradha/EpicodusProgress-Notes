@@ -6,4 +6,8 @@
 
 ## Description
 
-This repository contains text files of my notes for each Epicodus class I have taken. I will discuss my experiences and struggles with the course material, as well as make notes on programs/things I would be interested in pursuing. Notes will be updated at the end of every week.
+This repository contains text files of my notes for every Epicodus class I have taken. I discuss my experiences and struggles with the course material, as well as make notes on programs/things I would be interested in pursuing. Notes will be updated at the end of every week.
+
+## Previous Coding/Programming Experience
+
+None.

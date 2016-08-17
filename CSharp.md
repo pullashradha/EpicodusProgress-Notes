@@ -1,20 +1,16 @@
 # CSharp - Class Notes
 
-#### 06/27/2016 - 00/00/2016
+#### 06/27/2016 - 07/29/2016
 
 #### By Shradha Pulla
 
-## Course Description (Epicodus Website)
+## Course Description (Epicodus Learn How To Program Website)
 
-"This course builds on the programming fundamentals from Introduction to Programming and gives students more difficult problems to solve, a more advanced set of tools to solve them with, and establishes the foundations for learning the real-world technologies used by programmers on the job.
-
-* Week 1: Behavior-driven development
-* Week 2: Object-oriented design basics
+* Week 1: Web Apps with Nancy
+* Week 2: Behavior-driven Development with C#
 * Week 3: Database basics with SQL
 * Week 4: Databases continued (advanced)
-* Week 5: Group projects
-
-C# and .NET are typically used by larger enterprises, government agencies, and companies serving enterprise and government clients."
+* Week 5: Group Project
 
 ## Successes
 * Week 1:
@@ -64,10 +60,10 @@ C# and .NET are typically used by larger enterprises, government agencies, and c
   * Typed a lot, typed almost everything I had to do
   * Very rarely referenced my old notes when typing new code
   * Stayed after class 2 days this week to improve projects
-  * Watched C# lectures from https://www.pluralsight.com/ & https://www.toptal.com/ during the weekend, and practiced by completing an exercise from the class work
+  * Watched C# lectures from https://www.pluralsight.com/ during the weekend, and practiced basics of Visual Studio
 
 ## Next Steps/Things I Would Like to Pursue/Things to Improve On
 * Try LINQPad.Net to bypass compiling the file every time code is changed in an Objects file
 * Go to a .Net dev or CSharp dev meeting/meetup/company event
-* Learn how to write proper specs, especially for tests
-* Study theory behind databases & CRUD code
+* Learn how to write proper specs, especially for tests (Edit: getting better at this!)
+* Study theory behind databases/local servers & how they connect to the internet

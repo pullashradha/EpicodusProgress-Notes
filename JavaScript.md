@@ -1,12 +1,16 @@
 # JavaScript - Class Notes
 
-#### 00/00/2016 - 00/00/2016
+#### 08/01/2016 - 09/02/2016
 
 #### By Shradha Pulla
 
-## Course Description (Epicodus Website)
+## Course Description (Epicodus Learn How To Program Website)
 
-Brief description of content covered in course.
+* Week 1: Modern JS Apps
+* Week 2: Angular JS
+* Week 3: Ember JS
+* Week 4: Ember JS (extended)
+* Week 5: Group Project
 
 ## Successes
 *
